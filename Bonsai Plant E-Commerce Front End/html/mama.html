@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login form</title>
+	<link rel="stylesheet" type="text/css" href="/css/mama.css"> 
+</head>
+<body>
+	<div class = "loginbox">
+		<img src="/images/user.png" class = "avatar"> 
+		<script>
+    // List of image URLs
+    var images = ['/images/first.jpg', '/images/second.jpg','/images/third.jpg','/images/fourth.jpg']; //  storing image file in a array
+    // Index of the current image
+    var currentIndex = 0;
+
+    function changeBackground() { // function name changeBackground
+      // Setting the body's background image to the next image in the list
+      document.body.style.backgroundImage = `url(${images[currentIndex]})`;
+      // Increment the current index
+      currentIndex = (currentIndex + 1) % images.length;
+    }
+
+    // Calling the changeBackground function every 1.5 seconds
+    setInterval(changeBackground, 1500); 
+  </script>
+
+		<h1>Login here</h1>
+		<form name="login-form" onsubmit="return check()">
+  <p>Email address</p>
+  <input type="text" name="email" placeholder="Enter Email">
+  <p>Password</p>
+  <input type="Password" name="Password" placeholder="Enter password">
+  <input type="submit" name="" value="Login">
+  <a href="#">Forget password?</a><br>
+  <a href="#">Don't have an account?</a>
+</form>
+
+<script>
+  function check() {
+    var email = document.forms["login-form"]["email"].value;
+    var password = document.forms["login-form"]["Password"].value;
+    if (!email == "" || !password == "") {
+      alert("ITEM ADDED TO THE CART!");
+      return false;
+    }
+    return true;
+  }
+</script>
+
+</body>
+</html>
