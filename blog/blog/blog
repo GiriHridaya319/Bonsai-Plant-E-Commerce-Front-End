@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bonsai Territory | Blog</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css">
+<meta charset="utf-8">
+	<meta name="description" content="Online Ecommerce Website">
+	<meta name="keywords" content="HTML, CSS, JS">
+	<meta name="author">
+
+<style type="text/css">
+</style>
+	<body>
+ <div class = "banner_img">
+
+   <h1 style="padding-left: 200px; font-size: 38px; padding-right: 600px;"> HOW TECHNOLOGY HAS AFFECTED LIFE & BUSINESS</h1>
+   <b><p style="padding-left: 200px; font-size: 19px; padding-right: 600px;"> What is technology? How has if affected life & business? </p></b>
+   <p style="padding-left: 200px; font-size: 17px; padding-right: 600px;"> Published by: Bonsai Territory// January 23, 2023</p>
+   <br>
+ 	 <img src="../images/tech1.png" height="410px"; width="680px" style="margin-right: 100px; margin-left: 200px;">
+ 	</div>
+
+    <div class = "ads">
+<img src="../images/ad1.png" height="300px"; width="300px" style="float: right;"><br><br>
+</div>
+
+ 	<div class= "share">
+ 		<a href="https://facebook.com/"><img src="../images/facebook.png" height="33px" width="39px"></a><br>
+    <a href="https://www.instagram.com/"><img src="../images/insta.png" height="33px"; width="39px"></a><br>
+    <a href="https://www.linkedin.com/"><img src="../images/linkedin.png" height="33px"; width="37px"></a><br>
+    <a href="https://pinterest.com/"><img src="../images/pinter.png" height="33px" width="38px"></a><br>
+    <a href="https://discord.com/"><img src="../images/discord.png" height="33px" width="38px"></a><br>
+     <a href="https://youtube.com/"><img src="../images/youtube.png" height="35px" width="38px"></a> <br>
+      <a href="https://discord.com/"><img src="../images/discord.png" height="35px" width="38px"></a><br>
+ </div>
+<br>
+
+
+ 
+
+
+ 	<div class = "article">
+
+ 		<b><i><p style= " font-size: 22px; text-align: justify; color: #ff4d4d; padding-right: 30px; padding-left: 30px;">"Technology has advanced to the point where it has become an integral part of our daily lives. From smartphones to laptops, we rely on technology to connect us to the world around us and make our lives easier."</i> </b></p><br>
+
+ 	
+ 		<h2 style="padding-left: 30px; font-size: 25px;"> What is technology? </h2>
+ 		<p style="padding-left: 30px; padding-right: 30px; font-size: 20px; text-align:justify;"> Technology refers to the tools, methods, and techniques used to create, develop, and improve products, services, and processes. It encompasses a wide range of fields, including engineering, computer science, electronics, and more. Technology has played a critical role in human progress and has had a significant impact on how we live, work, and communicate. </p><br><br>
+
+        <iframe width="650px" height="340" style="margin-left: 69px;"
+src="https://www.youtube.com/embeded/watch?v=k_RtS3sag1Y&list=PPSV">
+</iframe>
+
+ 	<br><br>
+
+ 		  <p style=" padding-left: 30px; padding-right: 30px;font-size: 20px; text-align:justify; "> Technology has played a critical role in human progress and has had a significant impact on how we live, work, and communicate. It is constantly evolving and advancing, with new developments and innovations being made every day. Examples of technology include smartphones, computers, the internet, transportation systems, and medical equipment. The use of technology has had both positive and negative effects on society, including increased efficiency and productivity, improved communication and access to information, but also job displacement and privacy concerns. </p><br>
+
+ 		  <h2 style="padding-left: 30px; font-size: 25px;">  Positive impact of technology </h2>
+
+ 		  <p style="padding-left: 30px; padding-right: 30px; font-size: 20px; text-align:justify;"> Technology has had a significant positive impact on both personal and business aspects of life. In terms of personal life, technology has made it easier for individuals to stay connected with friends and family, access information and resources, and complete tasks more efficiently. For example, with the help of internet and smartphones, people can now video call, chat, or send message from anywhere and at any time, which has made long distance communication easier and more convenient. <br><br>
+
+In terms of business, technology has led to a significant increase in productivity and efficiency. Advancements in communication and information technology have allowed for better collaboration and information sharing, as well as automation of many tasks. This has led to improved decision making, increased competitiveness, and reduced costs for many businesses. Additionally, technology has also played a major role in the development of e-commerce and online marketplaces, which has led to the creation of new business models and opportunities. </p><br>
+
+<h2 style="padding-left: 30px; font-size: 25px;"> Negative impact of technology </h2>
+
+         <p style="padding-left: 30px; padding-right: 30px; font-size: 19px; text-align:justify;"> While technology has had many positive impacts on personal and business aspects of life, it also has some negative impacts.<br><br>
+
+In terms of personal life, excessive use of technology has been linked to various health issues such as poor posture, eye strain, and sleep disturbances. Additionally, social media and the internet can also contribute to feelings of isolation, anxiety and depression.<br><br>
+
+In terms of business, technology can also have negative consequences. Automation has led to job loss in certain industries, and the constant need to update and adapt to new technology can be costly for businesses. Furthermore, the increased reliance on technology has also led to concerns about data privacy and security, as well as the potential for cyber attacks.<br><br>
+
+Additionally, technology can also have a negative impact on the environment, through the production of electronic waste and the use of non-renewable resources in the production of technology.</p><br> 
+
+
+
+
+<h2 style="padding-left: 30px;"> Technology while selling bonsai plants </h2>
+
+    <p style="padding-left: 30px; padding-right: 30px;font-size: 20px; text-align:justify;"> Technology can also play a role in enhancing the customer experience while selling Bonsai plants. <br><br>
+
+    	Another way technology is used is through the use of augmented reality, which allows customers to visualize how a Bonsai plant will look in their own space. This can help customers make more informed decisions and increase their satisfaction with their purchase. <br><br><br>
+
+    	<img src="../images/bonsai.jpeg" height="340px"; width="550px" style="margin-left: 110px;">
+<br><br><br>
+
+Additionally, technology can also be used for the logistics of shipping Bonsai plants, by using precision temperature and humidity control during transportation. This can help to ensure that the plants arrive in good condition and increase customer satisfaction.<br><br>
+
+Lastly, technology can also play a role in automating customer service, by using chatbots or AI-based systems, which can respond to customer queries and help them with their purchase.<br><br>
+
+Overall, technology can play a key role in enhancing the customer experience while selling Bonsai plants, by providing more information, visualization, and automation to the process. <br><br>
+
+In conclusion, technology has had a significant positive impact on many aspects of society and business, including communication, transportation, education, healthcare, and entertainment, but also it has some negative impact such as effects on health, privacy and security, job loss, and environmental issues. Therefore, it is important to be aware of the potential negative impacts and take steps to mitigate them while enjoying the benefits that technology brings.</p>
+
+</div>
+
+<div class = "ads">
+<img src="../images/ad1.png" height="300px"; width="300px" style="float: right;"><br><br>
+</div>
+
+<div class = "trending">
+    <div class="top">
+       <b> Trending Posts</b>
+    </div>
+<br>
+<img src="../images/robots.png" height="100px"; width="120px" style="float: left;">
+ <p>The Rise of Robots: Future of Artificial Intelligence </p>
+<button>Read</button> <br><br>
+
+<img src="../images/hyper.jpeg" height="100px"; width="120px" style="float: left;">
+<p>How Will Hyperautomation Transform Business</p>
+<button>Read</button><br><br>
+
+<img src="../images/it.jpg" height="100px"; width="120px" style="float: left;">
+<p>Popular IT Service Management Frameworks</p>
+<button>Read</button><br><br>
+
+<img src="../images/azure.jpeg" height="100px"; width="120px" style="float: left;">
+<p> Azure Monitoring Complete Guide (2023)</p>
+<button>Read</button><br><br>
+
+<img src="../images/communication.jpeg" height="100px"; width="120px" style="float: left;">
+<p> Communication & Internet: Interconnecting Networks</p>
+<button>Read</button><br>
+</div>
+</div>
+
+
+ </body>
+ <html>

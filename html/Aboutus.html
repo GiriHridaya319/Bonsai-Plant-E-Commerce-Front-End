@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!--custom css link starts-->
+
+	<link rel="stylesheet" type="text/css" href="../css/styles.css">
+	<link rel="stylesheet" type="text/css" href="../css/form.css">
+	
+	<!--custom css link starts-->
+
+	<title>Team</title>
+</head>
+
+<body>
+	<!--navabar section starts-->
+
+	<div class="main">
+		<div class="navbar">
+			<img src="../images/A2E18390-7AC6-4009-8450-566D7E1CEA8A (3).PNG" height="250px" width="250px">
+			<ul>
+				<li><a href="../html/index.html">Home</a></li>
+				<li><a href="../html/Products.html">Products</a></li>
+				<li><a href="../html/Aboutus.html">About us </a></li>
+				<li><a href="../html/blog1.html">Blog</a></li>
+				<li><a href="../html/login.html">Login</a></li>
+			</ul>
+			<form>
+				<input type="text" placeholder="Search">
+				<button type="submit">Go</button>
+			</form>
+
+			<div class="navbar-icons">
+				<a href="../html/order.html"><img src="../images/shopping-cart.png"></a>
+			</div>
+		</div>
+
+		<!--navbar section ends-->
+
+		<!--card for shailshree Shah starts-->
+
+		<div class="team-section">
+			<div class="container">
+				<div class="row">
+					<div class="title">
+						<h1>About us</h1>
+					</div>
+				</div>
+				<div class="team-card">
+					<div class="card">
+						<div class="image-section">
+							<img src="../images/_com.apple.Pasteboard.NhvUmX (1).jpeg">
+						</div>
+						<div class="content">
+							<h3>Shailshree Shah</h3>
+							<h4>Home page developer</h4>
+							<p>Iam Front end designer.</p>
+							<a href="../html/portfolio5.html">
+								<button class="btn">
+									More About Shailshree shah
+								</button>
+							</a>
+						</div>
+					</div>
+
+					<!--card for shailshree shah ends-->
+
+					<!--card for trisana gurung starts-->
+
+					<div class="card">
+						<div class="image-section">
+							<img src="../images/WhatsApp Image 2023-02-02 at 1.47.42 PM.jpeg">
+						</div>
+						<div class="content">
+							<h3>Trisana Gurung</h3>
+							<h4>About us developer</h4>
+							<p>I'm a web developer. I have created and desigin the about us which include the bonsai
+								terrotery for the website. </p>
+							<a href="../html/portfolio2.html">
+								<button class="btn">
+									More About Trisana gurung
+								</button>
+							</a>
+						</div>
+					</div>
+
+					<!--card for trisana gurung starts-->
+
+					<!--card for arshiya khanal starts-->
+
+					<div class="card">
+						<div class="image-section">
+							<img src="../images/image2.jpeg">
+						</div>
+						<div class="content">
+							<h3>Arshiya Khanal</h3>
+							<h4>Blog developer</h4>
+							<p> I'm a web developer. I have proficient knowledge on creating and designing a layout for
+								the website which I utilized in developing this website.</p>
+							<a href="../html/portfolio6.html">
+								<button class="btn">
+									More About Arshiya khanal
+								</button>
+							</a>
+						</div>
+					</div>
+				</div>
+
+				<!--card for arshiya khanal ends-->
+
+				<br><br>
+				<!--card for rodrik shahi starts-->
+				<div class="teamCard2">
+					<div class="card">
+						<div class="image-section">
+							<img src="../images/Rodrik1.jpeg">
+						</div>
+						<div class="content">
+							<h3>Rodrik Shahi</h3>
+							<h4>product page developer</h4>
+							<p>I’m a web developer. I have created a lot of web pages for many renouned companies which
+								include bonsai terrotery where I created product page. </p>
+							<a href="../html/portfolio4.html">
+								<button class="btn">
+									More About Rodrik shahi
+								</button>
+							</a>
+						</div>
+					</div>
+
+					<!--card for rodrik shahi ends-->
+
+					<!--card for hridaya giri starts-->
+					<div class="card">
+						<div class="image-section">
+							<img src="../images/hridaya1.PNG">
+						</div>
+						<div class="content">
+							<h3>Hridaya Giri</h3>
+							<h4>web designer</h4>
+							<p>I am a web designer. I have mainly helped in designing the websites for many renouned
+								companies and one of them is bonsai territory.</p>
+							<a href="../html/portfolio3.html">
+								<button class="btn">
+									More About Hridaya giri
+								</button>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--card for hridaya girii ends-->
+
+		<!--form section starts-->
+		<form name="messageForm" onsubmit="validateform()" class="center">
+			<h1 style="font-size: 40px; margin-top: 40px;" align="center">FEEDBACK </h1>
+			<p>
+				<label for="emailaddress">Email address:</label> <input type="email" name="emailaddress"
+					id="emailaddress" required>
+			</p>
+			<br>
+			<p> <label for="firstname">First name:</label> <input type="text" name="firstname" id="firstname" required>
+			</p>
+			<p>
+				<label for="lastname">Last name:</label> <input type="text" name="lastname" id="lastname" required>
+			</p>
+			<p>
+				<label for="gender">Gender:</label> <input type="radio" name="gender" value="male">male
+				<input type="radio" name="gender" value="female">female
+				<input type="radio" name="gender" value="others" checked>others
+			</p> <br>
+			<p> <label for="phone">Phone Number:</label> <input type="text" name="phone" id="phone">
+			</p>
+			<p>
+				<header> Message:</header>
+				<textarea name="message" id="message" rows="10" cols="30" placeholder="Enter message"></textarea>
+				<p> <button type="submit">Submit</button>
+					<button type="reset">Reset</button>
+				</p>
+
+			</p>
+			<div class="image">
+				<iframe src="../images/Aesthetic-Flower-Art-PNG-Clipart.png" frameborder="0" height="500px"
+					width="750px"></iframe>
+			</div>
+		</form>
+
+		<!--form section ends-->
+
+		<!--javascript starts-->
+
+		<script>
+			function test() {
+				var fname = document.forms["validateform"]["firstname"].value;
+				var Lname = document.forms["validateform"]["lastname"].value;
+				var emailaddress = document.forms["validateform"]["emailaddress"].value;
+				var phone = document.forms["validateform"]["phone"].value;
+				if (firstname == "" || emailaddress == "" || lastname == "" || phone == "") {
+					alert("please fill out the table ")
+				} else {
+					alert("thank you for the feedback")
+				}
+			}
+		</script>
+
+		<!--javascript ends-->
+</body>
+
+</html>
